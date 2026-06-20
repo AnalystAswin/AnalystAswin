@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Aswin P! 
+# 👋 Hi, I'm Aswin P Chandran! 
 ### 📊 Data Analyst | Insights & Operational Intelligence
 
 I am a detail-oriented Data Analyst with a foundational background in Economics and hands-on experience transforming raw business operations into streamlined automation pipelines, relational database structures, and interactive dashboards. I specialize in bridging the gap between numbers and strategic decision-making.
